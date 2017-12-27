@@ -1,0 +1,3 @@
+This is working 100 percent. If you want to test program please change the path of the loaddata 
+according to data.mat file position in your PC.
+After that please run the function name TotalPercetron to run the program

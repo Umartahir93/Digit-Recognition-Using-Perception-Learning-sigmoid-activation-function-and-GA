@@ -1,0 +1,2 @@
+It calculate the correct solution but it takes time. I have commented the part where i have applied the GA
+algorithum.
